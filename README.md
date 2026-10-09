@@ -4,3 +4,7 @@ what it was in why I didn't upload it as maybe I started working on something el
 I'll update the readme later. Trying to put some time into a some working synths see if I can get some better working ones uploaded.. I suck at synth programming :)
 
 This one specifically aimed to provide the capabilities of the DX7 style synth. 
+
+Probably should add some analogue character to it and stuff... none the less very basic currently.
+
+Hopefully there wasn't another reason I didn't upload it, I can't reallly remember this so much so hopefully I didn't pass on uploading due to being too similar to dx7 or something????
